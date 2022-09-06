@@ -1,0 +1,3 @@
+https://ieeexplore.ieee.org/document/8114498
+
+The authors went through the functionalities that FC and EC must provide to their users and then present an architecture that combines the functionalities of both FC and EC.
