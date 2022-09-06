@@ -1,0 +1,4 @@
+https://doi.org/10.1016/j.sysarc.2019.02.009
+
+This paper is a survey paper which covers a lot of aspects of edge computing and fog computing, which range from basic definition of different computing paradigms to furture research areads.
+However, it seems to me that FC and EC are very similar to each other. Also, the authors seemed to pay special attention to FC's application in between vehicles.
