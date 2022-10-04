@@ -1,1 +1,3 @@
+Paper read: https://ieeexplore.ieee.org/document/7979974
 
+In this paper the author proposed an architecture where an edge server could be used for caching recognition data. The cache architecture has an O(n) searching time, since it stores some models for recognition. However, by deploying this to the edge, it could utlize the spatial correlation of the incoming data. Also, such implementation doesn't require any modification of current applications. The article shows enough evidence about how the proposed architecture is surperior that the regular caching techniques. However, the graph authors provided doesn't indicate the distribution of the data, which could be a problem.
