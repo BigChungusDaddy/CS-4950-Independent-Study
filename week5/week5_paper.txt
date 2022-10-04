@@ -1,1 +1,3 @@
+Paper read: https://dl.acm.org/doi/10.1145/3309705
 
+The author proposed a both vertical and horizontal OpenStack-based middleware platform that embraces the Edge and Fog paradigms for (Big) data processing, supported by hierarchical Cloud-driven coordination. The proposed middleware platform is composed with cloud manager, fog manager, and edge manager. One interesting thing about the edge manager is that it could load code as plugin. However, the implementation is not that great, and it raises some security issues. Lastly, the authors didn't really implement the system, but only ran a simulation, which is a huge flaw in the paper. :<
