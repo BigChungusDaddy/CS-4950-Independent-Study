@@ -1,1 +1,3 @@
+Paper read: https://ieeexplore.ieee.org/abstract/document/7981547
 
+In this paper author proposed an architecture that harvests the computing resources at the edge by partitioning different layers(cloud, fog, edge) into logical sectors. Then a selected orchestrator will monitor the whole system and gives resources to requesting nodes as needed. However, it is not clear how the orchestrator is selected, nor did the author explain how to partition different resources into sectors. Moreover, the authors didn't really implement the architecture, but only ran a simulation for their analysis. Furthermore, the analysis didn't really show how this architecture is better than current cloud-based architecture.
