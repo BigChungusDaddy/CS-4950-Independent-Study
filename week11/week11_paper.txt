@@ -1,0 +1,5 @@
+Worked on tensorflow distributed
+
+https://github.com/BigChungusDaddy/DistributedTF
+
+Worked on some data collection. Yet inspired the quetion: why training at the edge??? Since single node training performs much faster in smaller batch sizes.
