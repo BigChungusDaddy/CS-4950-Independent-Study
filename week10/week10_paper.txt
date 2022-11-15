@@ -1,0 +1,5 @@
+Debugged PyTorch distributed, no progress. 
+
+Paper: https://doi.org/10.14778/3415478.3415530
+
+This examines the principles behind PyTorch Distributed, which is distributed data parallel.
