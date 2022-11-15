@@ -1,0 +1,6 @@
+https://doi.org/10.1145/3472883.3487014
+
+This paper talks about Mu, which is a serverless plantform that performs advance autoscaling, load balancing, and placement based on different parameters to satisfy the
+services level objectives. Compared to traditional implmentations, it greatly improves the fairness and also reduces the responses time by 62%. In general, Mu is efficent
+and greatly reduces the amount of resouces needed. However, it does inspire the consideration of "fairness". That is, what is considered as fair and what is considered as
+not fair?
